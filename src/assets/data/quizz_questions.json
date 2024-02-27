@@ -1,0 +1,35 @@
+{
+  "title":"Seu perfil é de Engenheiro ou Arquiteto?",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que te chama mais atenção em uma casa?",
+      "options":[
+        {"id": 1, "name":"O material utilizado na estrutura", "alias":"A"},
+        {"id": 2, "name":"A disposição dos cômodos", "alias":"B"},
+        {"id": 3, "name":"A qualidade do acabamento", "alias":"A"},
+        {"id": 4, "name":"A harmonização das cores", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "No que você pensa ao ver um prédio com uma fachada diferenciada?",
+      "options":[
+        {"id": 1, "name":"Na parte visual, em como a geometria a torna bonita", "alias":"A"},
+        {"id": 2, "name":"Tenta entender como é possível que tal fachada esteja de pé", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que é mais importante para você?",
+      "options":[
+        {"id": 1, "name":"Beleza, conceito e conforto", "alias":"B"},
+        {"id": 2, "name":"Segurança, funcionalidade e economia", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você pensa e age como um Engenheiro",
+    "B": "Você pensa e age como um Arquiteto"
+  }
+}
